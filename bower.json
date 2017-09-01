@@ -1,0 +1,31 @@
+{
+  "name": "fine-uploader",
+  "description": "powerfull js plugin for manage uploads in webpage",
+  
+  
+  "devDependencies": {
+    "qunit": "~1.16.0"
+  },
+ 
+  "keywords": [
+    "upload",
+    "fine-upload"
+  ],
+  "authors": [
+    "fine uploader (https://fineuploader.com)"
+  ],
+  "license": "GPL-3.0",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "homepage":"https://github.com/amintado/fine-uploader",
+  "private": false,
+  "repository":{
+  	"type": "git",
+    "url": "https://github.com/amintado/fine-uploader.git"
+  }
+}
